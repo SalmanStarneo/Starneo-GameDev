@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1">Default_0.png</texture>
+  <tpe x="4" y="4" tpage="Default_0" entry="43">backgr_beta.tpe</tpe>
+  <tpe x="2" y="74" tpage="Default_0" entry="0">spri_brick0_0.tpe</tpe>
+  <tpe x="38" y="74" tpage="Default_0" entry="1">spri_brick0_1.tpe</tpe>
+  <tpe x="2" y="110" tpage="Default_0" entry="11">spri_ground_0.tpe</tpe>
+  <tpe x="38" y="110" tpage="Default_0" entry="12">spri_ground_1.tpe</tpe>
+  <tpe x="2" y="146" tpage="Default_0" entry="13">spri_ground_2.tpe</tpe>
+  <tpe x="38" y="146" tpage="Default_0" entry="26">spri_switch_0.tpe</tpe>
+  <tpe x="2" y="182" tpage="Default_0" entry="41">spri_brick1_0.tpe</tpe>
+  <tpe x="38" y="182" tpage="Default_0" entry="42">spri_brick1_1.tpe</tpe>
+  <tpe x="2" y="218" tpage="Default_0" entry="2">spr_PlayerDown_0.tpe</tpe>
+  <tpe x="34" y="218" tpage="Default_0" entry="18">spri_Rolling_0.tpe</tpe>
+  <tpe x="74" y="2" tpage="Default_0" entry="35">spri_PlayerRight_0.tpe</tpe>
+  <tpe x="106" y="2" tpage="Default_0" entry="36">spri_PlayerRight_1.tpe</tpe>
+  <tpe x="138" y="2" tpage="Default_0" entry="37">spri_PlayerRight_2.tpe</tpe>
+  <tpe x="170" y="2" tpage="Default_0" entry="38">spri_PlayerLeft_0.tpe</tpe>
+  <tpe x="202" y="2" tpage="Default_0" entry="39">spri_PlayerLeft_1.tpe</tpe>
+  <tpe x="70" y="218" tpage="Default_0" entry="40">spri_PlayerLeft_2.tpe</tpe>
+  <tpe x="74" y="38" tpage="Default_0" entry="34">spri_PlayerUp_2.tpe</tpe>
+  <tpe x="74" y="74" tpage="Default_0" entry="4">spr_PlayerDown_2.tpe</tpe>
+  <tpe x="74" y="110" tpage="Default_0" entry="32">spri_PlayerUp_0.tpe</tpe>
+  <tpe x="74" y="146" tpage="Default_0" entry="14">spri_Door_0.tpe</tpe>
+  <tpe x="74" y="182" tpage="Default_0" entry="22">spri_Enemy2_0.tpe</tpe>
+  <tpe x="106" y="38" tpage="Default_0" entry="27">spri_switch_1.tpe</tpe>
+  <tpe x="138" y="38" tpage="Default_0" entry="3">spr_PlayerDown_1.tpe</tpe>
+  <tpe x="166" y="38" tpage="Default_0" entry="33">spri_PlayerUp_1.tpe</tpe>
+  <tpe x="234" y="2" tpage="Default_0" entry="15">spri_Door_1.tpe</tpe>
+  <tpe x="194" y="38" tpage="Default_0" entry="16">spri_Door_2.tpe</tpe>
+  <tpe x="218" y="38" tpage="Default_0" entry="17">spri_Door_3.tpe</tpe>
+  <tpe x="106" y="66" tpage="Default_0" entry="25">spri_Enemy3_0.tpe</tpe>
+  <tpe x="134" y="70" tpage="Default_0" entry="24">spri_chest_0.tpe</tpe>
+  <tpe x="162" y="70" tpage="Default_0" entry="5">spri_Enemy1_0.tpe</tpe>
+  <tpe x="190" y="74" tpage="Default_0" entry="6">spri_Enemy1_1.tpe</tpe>
+  <tpe x="218" y="74" tpage="Default_0" entry="7">spri_Enemy1_2.tpe</tpe>
+  <tpe x="102" y="94" tpage="Default_0" entry="8">spri_Enemy1_3.tpe</tpe>
+  <tpe x="130" y="98" tpage="Default_0" entry="9">spri_Enemy1_4.tpe</tpe>
+  <tpe x="158" y="98" tpage="Default_0" entry="10">spri_Enemy1_5.tpe</tpe>
+  <tpe x="186" y="102" tpage="Default_0" entry="19">spri_lifeBar_0.tpe</tpe>
+  <tpe x="218" y="102" tpage="Default_0" entry="20">spri_lifeBar_1.tpe</tpe>
+  <tpe x="186" y="122" tpage="Default_0" entry="21">spri_lifeBar_2.tpe</tpe>
+  <tpe x="102" y="122" tpage="Default_0" entry="23">spri_Key_0.tpe</tpe>
+  <tpe x="218" y="122" tpage="Default_0" entry="28">spri_switch_2.tpe</tpe>
+  <tpe x="122" y="126" tpage="Default_0" entry="30">spri_Projectile_1.tpe</tpe>
+  <tpe x="146" y="126" tpage="Default_0" entry="29">spri_Projectile_0.tpe</tpe>
+  <tpe x="242" y="38" tpage="Default_0" entry="31">spri_Projectile_2.tpe</tpe>
+</TextureGroup>
