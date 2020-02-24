@@ -23,13 +23,17 @@
     <sprite>sprites\spri_PlayerRight</sprite>
     <sprite>sprites\spri_PlayerLeft</sprite>
     <sprite>sprites\spri_brick1</sprite>
+    <sprite>sprites\sprite17</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\backgr_beta</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\input.gml</script>
+  </scripts>
   <objects name="objects">
-    <object>objects\obj_brick</object>
+    <object>objects\obj_brick0</object>
     <object>objects\obj_Player</object>
     <object>objects\obj_Enemy1</object>
     <object>objects\obj_ground</object>
@@ -41,6 +45,9 @@
     <object>objects\obj_Key</object>
     <object>objects\obje_Projectile</object>
     <object>objects\obj_switch</object>
+    <object>objects\obj_brick1</object>
+    <object>objects\obj_input</object>
+    <object>objects\obj_game</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>

@@ -25,8 +25,19 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>image_speed = 0.5;
+            <string>
+image_speed = 0.3;
 
+xPlayer=0;
+yPlayer=0;
+
+Player_spd=2;
+
+state="IDLE";
+
+facing=270;
+
+spirie_walk = spr_PlayerDown;
 </string>
           </argument>
         </arguments>
@@ -49,10 +60,18 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>left=keyboard_check(vk_left);
-up=keyboard_check(vk_up);
-right=keyboard_check(vk_right);
-down=keyboard_check(vk_down);
+            <string>switch(state)
+{
+    case "IDLE";
+    {
+        image_speed=0;
+        
+        sprite_index = sprite_walk;
+        
+        xPlayer=0;
+        yPlayer=0;
+    }
+}
 </string>
           </argument>
         </arguments>
